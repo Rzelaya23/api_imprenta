@@ -5,7 +5,7 @@
 }
 
 body {
-	background: linear-gradient(90deg, #e7eff6, #adcbe3);		
+	background: linear-gradient(90deg, #e7eff6, #adcbe3);
 }
 
 header {
@@ -21,10 +21,8 @@ header {
 }
 
 header img {
-    height: 85px;
-    width: 85px;
-    border-radius: 70px;
-    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    height: 100px;
+    width: 300px;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
